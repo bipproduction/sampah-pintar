@@ -9,7 +9,7 @@
 
 **Sistem:**
 
-* **Sistem Informasi Manajemen Sampah Nasional (SISMAN)**: Sistem ini dikembangkan oleh Kementerian Lingkungan Hidup dan Kehutanan untuk mengintegrasikan data pengelolaan sampah dari seluruh Indonesia.
+* **Sistem Informasi Manajemen Sampah Nasional (SISMAN)**: Sistem ini dikembangkan oleh Kementerian Lingkungan Hidup dan Kehutanan untuk mengintegrasikan data pengelolaan sampah dari seluruh Indonesia. https://sipsn.menlhk.go.id/sipsn/
 * **Sistem Pengelolaan Sampah Terpadu (SPST)**: Sistem ini diterapkan di berbagai daerah di Indonesia untuk meningkatkan efektivitas dan efisiensi pengelolaan sampah, mulai dari pengumpulan, pengangkutan, pengolahan, hingga pembuangan.
 * **Bank Sampah**: Bank sampah adalah lembaga yang dikelola masyarakat untuk mengumpulkan, memilah, dan mendaur ulang sampah. Bank sampah biasanya memberikan imbalan kepada nasabahnya dalam bentuk uang atau barang.
 
